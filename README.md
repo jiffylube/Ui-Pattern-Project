@@ -7,6 +7,6 @@ Javascript
 
 # Acknowledgments
 API list below:
-  *https://random.dog/woof.json
-  *https://foodish-api.herokuapp.com/api
-  *https://api.chucknorris.io/
+  * https://random.dog/woof.json
+  * https://foodish-api.herokuapp.com/api
+  * https://api.chucknorris.io/
